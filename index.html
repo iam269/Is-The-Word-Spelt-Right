@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Is The Word Spelt Right — Game</title>
+  <link rel="stylesheet" href="style.css">
+  <link rel="icon" href="checkmark.png">
+</head>
+<body>
+  <main class="app">
+    <header>
+      <h1>Is the word spelt right?</h1>
+      <p class="subtitle">Press <strong>Correct</strong> or <strong>Wrong</strong> — see if you're right!</p>
+    </header>
+
+    <section class="game">
+      <div class="meta">
+        <div class="score">Score: <span id="score">0</span></div>
+        <div class="lives">Lives: <span id="lives">3</span></div>
+      </div>
+
+      <div id="wordBox" class="word">loading...</div>
+
+      <div class="controls">
+        <button id="btnCorrect" class="btn">Correct ✅</button>
+        <button id="btnWrong" class="btn">Wrong ❌</button>
+      </div>
+
+      <div id="feedback" class="feedback"></div>
+
+      <div class="footer-actions">
+        <button id="btnNext" class="btn ghost">Next</button>
+        <button id="btnRestart" class="btn ghost">Restart</button>
+      </div>
+    </section>
+  </main>
+
+  <script src="script.js"></script>
+</body>
+</html>
