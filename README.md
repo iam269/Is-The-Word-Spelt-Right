@@ -6,6 +6,6 @@ A thrilling spelling challenge game! 🧠 Test your vocabulary and spelling skil
 - **Goal**: Achieve the highest score possible! 📈
 - **Fun Factor**: Fast-paced and addictive! ⚡
 
-Play the game live here: [https://iam269.github.io/Is-The-Word-Spelt-Right/](https://iam269.github.io/Is-The-Word-Spelt-Right/) 🌐
+Play the game live here: [https://itsiamdev.github.io/Is-The-Word-Spelt-Right/](https://itsiamdev.github.io/Is-The-Word-Spelt-Right/) 🌐
 
 Enjoy the game and challenge your friends! 👥
